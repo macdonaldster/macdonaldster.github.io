@@ -1,3 +1,4 @@
 name: Scott MacDonald, macdonaldster.ca
 markdown: kramdown
 theme: jekyll-theme-slate
+future: true
