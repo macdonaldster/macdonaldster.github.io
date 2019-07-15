@@ -2,3 +2,5 @@ name: Scott MacDonald, macdonaldster.ca
 markdown: kramdown
 theme: jekyll-theme-minimal
 future: true
+title: macdonaldster.ca
+description: A personal site, not a blog
