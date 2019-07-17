@@ -5,3 +5,4 @@ future: true
 title: macdonaldster.ca
 description: A personal site, not a blog
 exclude: [archive/]
+logo: assets/sitelogo.jpg
