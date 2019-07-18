@@ -24,7 +24,7 @@ date: 2019-07-14
 		</ul>
 	</p>
 
-
+	<h2>Pages:</h2>
 	{% for p in site.pages %}
 	  * [{{ p.title }}]({{ p.url | absolute_url }})
 		 <small>{{ p.excerpt }}</small>
