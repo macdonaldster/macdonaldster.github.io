@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ... home
-date: 2019-07-14
+date: 2019-07-01
 categories: [site]
 ---
 <div class="blurb">
