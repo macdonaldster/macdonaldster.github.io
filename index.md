@@ -2,6 +2,7 @@
 layout: default
 title: Scott MacDonald
 date: 2019-07-14
+categories: [site]
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Scott MacDonald!</h1>	
@@ -27,10 +28,10 @@ date: 2019-07-14
 	<h2>Pages:</h2>
 	<ul>
 	{% for p in site.pages %}
-		{% if p.categories != '' %}
-	  <li> <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
+		{% if p.categories != [] %}
+	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
 		 <small>{{ p.excerpt }}</small></li>
-		 {% endif %}
+		{% endif %}
  	{% endfor %}
 	</ul>
 
