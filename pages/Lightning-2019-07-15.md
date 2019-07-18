@@ -1,3 +1,10 @@
+---
+layout: default
+title: Lightning 
+date: 2019-07-15
+categories: [TIL]
+---
+
 # Lighting
 
 Seems like we get it every night, this summer.

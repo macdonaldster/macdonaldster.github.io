@@ -2,6 +2,7 @@
 layout: default
 title: Thoughts on organizing 
 date: 2019-07-14
+categories: [organizing]
 ---
 # Thoughts on organizing
 
