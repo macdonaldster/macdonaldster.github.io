@@ -6,9 +6,7 @@ categories: [site]
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Scott MacDonald!</h1>	
-	<p>Going to create a personal site instead of a blog, I guess.</p>
-	<p>Pages:
-	</p>
+	<p>Going to create a personal site instead of a blog, I guess.</p>	
 
 	<p>Notes:
 		<ul>
@@ -20,7 +18,8 @@ categories: [site]
 
 	<h2>Pages:</h2>
 	<ul>
-	{% for p in site.pages %}
+	{% assign sorted = (site.pages | sort: 'date') | reverse %}
+	{% for p in sorted %}
 		{% if p.categories != [] %}
 	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
 		 <small>{{ p.excerpt }}</small></li>
