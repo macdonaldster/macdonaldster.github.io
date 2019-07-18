@@ -2,7 +2,6 @@
 layout: default
 title: ... home
 date: 2019-07-01
-categories: [site]
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Scott MacDonald!</h1>	
@@ -18,10 +17,10 @@ categories: [site]
 
 	<h2>Pages:</h2>
 	<ul>
-	{% assign sorted = (site.pages | sort: 'date') | reverse %}
+	{% assign sorted = (site.pages | sort: 'date')  %}
 	{% for p in sorted %}
 		{% if p.categories != [] %}
-	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
+	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.date }}</a>
 		 <small>{{ p.excerpt }}</small></li>
 		{% endif %}
  	{% endfor %}

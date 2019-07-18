@@ -3,6 +3,7 @@ layout: default
 title: Lightning 
 date: 2019-07-15
 categories: [TIL]
+exerpt: I use an app to keep track of the crazy lightning in my area.
 ---
 
 # Lighting

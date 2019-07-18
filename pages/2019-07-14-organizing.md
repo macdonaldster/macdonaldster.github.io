@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Thoughts on organizing 
-date: 2019-07-14
+date: 2019-07-18
 categories: [organizing]
+exerpt: How I stay on top of things.
 ---
 # Thoughts on organizing
 
@@ -18,8 +19,8 @@ It's the next day and I don't have any real reservations about this. I am going 
 
 My greatest argument against this is "say I am booking a dentist appointment and I forget I have a thing that day in six months". Well, this is something you can easily solve by simply taking the calendar with you OR calling them in there is a conflict. Other than that, I am basically going to be doing a lot of page flipping (looking ahead at the week, etc). This is fine. Recurring things I need reminders of can still go into Google calendar or just as reminders in Gmail. I might even use an Gmail label as my todo list. It's fine. 
 
+## 2019-07-18
+
+So far the paper calendar is going well. It is self-dated so I added in dates until the end of December. I'll use the rest of the book (half, or so) for my TODO list. Using a list scanning method from Mark Forster [http://markforster.squarespace.com/tm-systems/](http://markforster.squarespace.com/tm-systems/). I can never find the exact one but basically, you have a long list and when you work on something you cross if off. If it isn't done you write it at the end of the list after crossing it off. You start scanning at the first page of the list with one or more incomplete tasks. That's it.
 
 
-## Log
-
-- 2019-07-14 - created page
