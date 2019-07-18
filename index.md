@@ -8,13 +8,6 @@ categories: [site]
 	<h1>Hi there, I'm Scott MacDonald!</h1>	
 	<p>Going to create a personal site instead of a blog, I guess.</p>
 	<p>Pages:
-<ul>
-
-<li><a href="/pages/Lightning-2019-07-15.html">Lightning (last updated 2019-07-15)</a></li>
-
-<li><a href="/pages/2019-07-14-organizing.html">Organizing (last updated 2019-07-15)</a></li>
-
-</ul>
 	</p>
 
 	<p>Notes:
