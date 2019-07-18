@@ -27,7 +27,7 @@ date: 2019-07-14
 	<h2>Pages:</h2>
 	<ul>
 	{% for p in site.pages %}
-	  <li> [{{ p.title }}]({{ p.url | absolute_url }})
+	  <li> <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
 		 <small>{{ p.excerpt }}</small></li>
  	{% endfor %}
 	</ul>
