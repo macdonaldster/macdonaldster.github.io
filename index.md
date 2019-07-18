@@ -25,9 +25,11 @@ date: 2019-07-14
 	</p>
 
 	<h2>Pages:</h2>
+	<ul>
 	{% for p in site.pages %}
-	  * [{{ p.title }}]({{ p.url | absolute_url }})
-		 <small>{{ p.excerpt }}</small>
+	  <li> [{{ p.title }}]({{ p.url | absolute_url }})
+		 <small>{{ p.excerpt }}</small></li>
  	{% endfor %}
+	</ul>
 
 </div><!-- /.blurb -->
