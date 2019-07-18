@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Why not a blog?
-date: 2019-07-18 14:48
+date: 2019-07-18
 categories: [site]
 ---
 
