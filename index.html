@@ -24,4 +24,10 @@ date: 2019-07-14
 		</ul>
 	</p>
 
+
+	{% for p in site.pages %}
+	  * [{{ p.title }}]({{ p.url | absolute_url }})
+		 <small>{{ p.excerpt }}</small>
+ 	{% endfor %}
+
 </div><!-- /.blurb -->
