@@ -21,8 +21,7 @@ last_modified_at: 2019-07-20 06:54 -6
 	{% assign sorted = (site.pages | sort: 'date') | reverse %}
 	{% for p in sorted %}
 		{% if p.categories != [] %}
-	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.date }}</a>
-		 <small>{{ p.excerpt }}</small></li>
+	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.date }}</a></li>
 		{% endif %}
  	{% endfor %}
 	</ul>
