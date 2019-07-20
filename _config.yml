@@ -7,3 +7,6 @@ description: A personal site, not a blog
 exclude: [archive/]
 logo: assets/sitelogo.jpg
 google_analytics: UA-57864847-1
+url: "http://macdonaldster.ca"
+plugins:
+  - jekyll-sitemap
