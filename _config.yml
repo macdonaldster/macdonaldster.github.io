@@ -1,9 +1,10 @@
 name: Scott MacDonald, macdonaldster.ca
 markdown: kramdown
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 future: true
 title: macdonaldster.ca
 description: A personal site, not a blog
 exclude: [archive/]
 logo: assets/sitelogo.jpg
 google_analytics: UA-57864847-1
+remote_theme: mmistakes/minimal-mistakes
