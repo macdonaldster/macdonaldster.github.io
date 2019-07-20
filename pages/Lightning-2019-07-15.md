@@ -3,12 +3,11 @@ layout: default
 title: Lightning 
 date: 2019-07-15
 categories: [TIL]
-exerpt: I use an app to keep track of the crazy lightning in my area.
 ---
 
-# Lighting
+# Lightning
 
-Seems like we get it every night, this summer.
+Seems like we get it every night, this summer.<!-- more -->
 
 I use an Android app to keep an eye on the storms. It's hard to explain the interface but it shows you where strikes are happening in near real time on a map at whatever scale you'd like. Great for tracking fast moving lightning storms so you know when it's safe to head back outside. 
 
