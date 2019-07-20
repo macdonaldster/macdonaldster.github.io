@@ -8,7 +8,7 @@ last_modified_at: 2019-07-20 06:00 -6
 
 # Trump Supporters
 
-I've been wanting to write for a while on the topic "How I see Trump Supporters".<!-- more --> 
+I've been wanting to write for a while on the topic "How I see Trump Supporters".<!--more--> 
 
 My opinion on this has been formed primarily by spending time on a subreddit where people ask Trump Supporters to explain how they feel about various Trump related things but I've also just been paying attention generally to various other sources of information. While I might attempt to provide some numbers or other research to back up the claims here, this should be regarded as my own opinion. I am not claiming I am completely correct and my opinions tend to change over time as I learn new things.
 
