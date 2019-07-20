@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Jekyll Notes and Links
-date: 2019-07-20 07:04 -6
+date: 2019-07-20
 categories: [notes]
 last_modified_at: 2019-07-20 07:04 -6
 ---
