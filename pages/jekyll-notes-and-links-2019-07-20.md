@@ -8,4 +8,4 @@ last_modified_at: 2019-07-20 07:04 -6
 
 # Jekyll Notes and Links
 
-- [https://devhints.io/jekyll](https://devhints.io/jekyll) - great cheatsheet!
+- <a href="https://devhints.io/jekyll">https://devhints.io/jekyll</a> - great cheatsheet!
