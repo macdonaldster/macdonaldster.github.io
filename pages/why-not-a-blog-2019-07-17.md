@@ -3,7 +3,7 @@ layout: default
 title: Why not a blog?
 date: 2019-07-18
 categories: [site]
-last_modified_at: 2019-07-18
+last_modified_at: 2019-07-18 05:11 -6
 ---
 
 # Why not a blog?

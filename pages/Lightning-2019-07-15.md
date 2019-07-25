@@ -3,7 +3,7 @@ layout: default
 title: Lightning 
 date: 2019-07-15
 categories: [TIL]
-last_modified_at: 2019-07-15
+last_modified_at: 2019-07-15  05:11 -6
 ---
 
 # Lightning
