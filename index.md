@@ -21,7 +21,7 @@ last_modified_at: 2019-07-20 06:54 -6
 	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
 	{% for p in sorted %}
 		{% if p.categories != [] %}
-	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.date }}</a></li>
+	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | <small>c: {{ p.date }}, lm: {{ p.last_modified_at}} </small></a></li>
 		{% endif %}
  	{% endfor %}
 	</ul>
