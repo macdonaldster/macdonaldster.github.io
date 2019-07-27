@@ -10,9 +10,14 @@ last_modified_at: 2019-07-20 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>I just decommissioned my linode vps, saving about $10 USD a month.</li>
-			<li>I backed up my writefreely blog posts to a JSON file in this repo in case I want to ressurect any posts as "articles" here.</li>
-			<li>This site will just be free-form, whatever I feel like writing about. No pressure to "blog". No structure, no outline, just some HTML docs online.</li>
+			<li>Look, you can't argue with a Trump Supporter. Here's why:
+				<ul>
+					<li>They don't win by being right, they win by out lasting you or angering you to the point where you storm off or lose your temper.</li>
+					<li>Facts don't matter. They don't care about that citation. And they know it makes you angry. Sure, they read the Mueller report! And, totally, wilfully misunderstood it. And no amount of legal scholarship about obstruction of justice is going to make a difference.</li>
+					<li>They just don't care about you at all, so they don't care if you agree with them. And they don't care if they are wrong because being wrong only matters if you care about how other people see you. They don't care about that. </li>
+					<li>There's more here: <a href="/pages/trump-supporters-2019-07-20.html">Trump Supporters</a></li>
+				</ul>
+			</li>
 		</ul>
 	</p>
 
