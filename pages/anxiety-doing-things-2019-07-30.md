@@ -37,9 +37,9 @@ For more on building actions for a TODO list, please read David Allen's _Getting
 So what really happened here:
 
 1. You managed and channeled you anxiety by list building
-2. You got ahead of the "analysis paralysis" of figuring out what to do next by scanning your list when time allowed and identifying atmoic tasks
+2. You got ahead of the "analysis paralysis" of figuring out what to do next by scanning your list when time allowed and identifying atomic tasks
 3. You are able to quickly dip into your project and grab a single, atomic task that moves your project forward
-4. You an scan your list as time allows to both update it and manage your anxiety around the project 
+4. You can scan your list as time allows to both update it and manage your anxiety around the project 
 
 In this way, the project will get done piece by piece, day by day. If you get a lot of time to focus on a project (and you are able to get yourself to do that) the list has lowered the friction of working long term - the course is layed out for you. If you just have a little time, the list gives you quick wins that build confidence and ease doubts about whether you can accomplish this. 
 
