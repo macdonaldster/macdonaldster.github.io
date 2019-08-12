@@ -10,14 +10,13 @@ last_modified_at: 2019-07-20 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Look, you can't argue with a Trump Supporter. Here's why:
-				<ul>
-					<li>They don't win by being right, they win by out lasting you or angering you to the point where you storm off or lose your temper.</li>
-					<li>Facts don't matter. They don't care about that citation. And they know it makes you angry. Sure, they read the Mueller report! And, totally, wilfully misunderstood it. And no amount of legal scholarship about obstruction of justice is going to make a difference.</li>
-					<li>They just don't care about you at all, so they don't care if you agree with them. And they don't care if they are wrong because being wrong only matters if you care about how other people see you. They don't care about that. </li>
-					<li>There's more here: <a href="/pages/trump-supporters-2019-07-20.html">Trump Supporters</a></li>
-				</ul>
+			<li>Lately, I feel like I am going crazy. I feel like we are stuck in the world where the show Scandal takes place. The Epstein thing... it's so in your face. Just brazenly taken out before he could be compelled to testify. Or, maybe, he really did do this himself. How will we ever know? It just seems like the onslaught of crazy news never ends. It started really going nuts when Trump was elected and keeps accellerating. Where does it stop? How can it keep getting crazier? We're try to raise a kid over here.
+			<a href="http://imoviequotes.com/wp-content/uploads/2015/02/1-Midnight-Cowboy-quotes.gif" />
+			
 			</li>
+
+
+
 		</ul>
 	</p>
 
