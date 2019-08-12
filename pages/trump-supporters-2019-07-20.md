@@ -3,7 +3,7 @@ layout: default
 title: Trump Supporters 
 date: 2019-05-30
 categories: [politics]
-last_modified_at: 2019-07-20 06:00 -6
+last_modified_at: 2019-08-12 06:00 -6
 ---
 
 # Trump Supporters
@@ -89,10 +89,13 @@ These are basically anecdotal but here are links where you can see people discus
     - [What does supporting Trump mean to you? (2019-04-23)](https://www.reddit.com/r/asktrumpsupporters/comments/bg6jjh/_/)
     -  [What do you guys identify as ? (Libertarians, Conservatives, Independents, Centrists, Populists, Nationalists) ?](https://www.reddit.com/r/asktrumpsupporters/comments/baa7kd/_/ekbo79j?context=1000)
     - [How do you feel about the administration’s new tough stance on China’s treatment of Uighurs?](https://www.reddit.com/r/AskTrumpSupporters/comments/bkmm3v/_/emiiz6i/?context=1000)
+    - YouTube video (warning: these are sad, patheic fools and the language is offensive + people get punched, etc): [Unfiltered Voices From Donald Trump's Crowds | The New York Times](https://www.youtube.com/watch?v=R9YPYRaeTW0&feature=youtu.be) 
+
 
 _Revision Log_
 
 * 2019-04-05 - first draft
 * 2019-04-24 - added "Links that illustrate my points" section and ATS link 
 * 2019-05-30 - added some more "illustrate my points" links
+* 2019-08-12 - Added YouTube link to some Trump rally footage
 					
