@@ -10,12 +10,12 @@ last_modified_at: 2019-07-20 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Lately, I feel like I am going crazy. I feel like we are stuck in the world where the show Scandal takes place. The Epstein thing... it's so in your face. Just brazenly taken out before he could be compelled to testify. Or, maybe, he really did do this himself. How will we ever know? It just seems like the onslaught of crazy news never ends. It started really going nuts when Trump was elected and keeps accellerating. Where does it stop? How can it keep getting crazier? We're try to raise a kid over here.
-			<img src="http://imoviequotes.com/wp-content/uploads/2015/02/1-Midnight-Cowboy-quotes.gif" />
-			
+			<li>Lately I have been watching a lot of van conversion videos: [https://www.youtube.com/watch?v=3YcD5XJNzkM](https://www.youtube.com/watch?v=3YcD5XJNzkM)
 			</li>
 
-
+			<li>
+			Recognized Lake Banook in the intro of the Canadian Amazing Race tonight. :)
+			</li>
 
 		</ul>
 	</p>
