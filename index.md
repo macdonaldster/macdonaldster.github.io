@@ -10,7 +10,7 @@ last_modified_at: 2019-07-20 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Lately I have been watching a lot of van conversion videos: (https://www.youtube.com/watch?v=3YcD5XJNzkM)[https://www.youtube.com/watch?v=3YcD5XJNzkM]
+			<li>Lately I have been watching a lot of van conversion videos: <a href="https://www.youtube.com/watch?v=3YcD5XJNzkM">https://www.youtube.com/watch?v=3YcD5XJNzkM</a>
 			</li>
 
 			<li>
