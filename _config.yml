@@ -9,14 +9,6 @@ logo: assets/sitelogo.jpg
 google_analytics: UA-57864847-1
 url: "http://macdonaldster.ca"
 
-feed:
-  collections:
-    - changes
-feed:
-  collections:
-    changes:
-      path: "/changes.xml"
-
 plugins:
   - jekyll-sitemap
   - jekyll-feed
