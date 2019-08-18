@@ -2,7 +2,7 @@
 layout: default
 title: ... home
 date: 2019-07-01
-last_modified_at: 2019-07-20 06:54 -6
+last_modified_at: 2019-08-18 06:54 -6
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Scott MacDonald!</h1>	
