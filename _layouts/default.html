@@ -9,6 +9,7 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    {% feed_meta %}
   </head>
   <body>
     <div class="wrapper">
@@ -21,7 +22,8 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <ul>
-          <li>Follow? <a href="/sitemap.xml">RSS/Sitemap</a></li>
+          <li>Feed? <a href="">RSS</a></li>
+          <li>Sitemap? <a href="/sitemap.xml">XML Sitemap</a></li>
         </ul>
 
         {% if site.github.is_project_page %}
