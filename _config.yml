@@ -11,6 +11,9 @@ url: "http://macdonaldster.ca"
 
 feed:
   collections:
+    - changes
+feed:
+  collections:
     changes:
       path: "/changes.xml"
 
