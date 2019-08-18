@@ -9,9 +9,6 @@ logo: assets/sitelogo.jpg
 google_analytics: UA-57864847-1
 url: "http://macdonaldster.ca"
 
-collections:
-  - pages
-
 feed:
   collections:
     - pages
