@@ -1,0 +1,20 @@
+---
+layout: default
+title: Keeping Dog Bowls Clean
+date: 2019-10-01
+categories: [site, dog]
+last_modified_at: 2019-10-01 05:11 -6
+---
+
+# Keeping dog bowls clean
+
+I am not a huge fan of washing my dog's bowls (food and water) in the sink with normal dishes, or using a scrubby that I use on our normal pots and pans on the dog bowls for a variety of reasons (bacteria, mostly). I also think my dog deserves clean bowls to eat and drink out of. In the past, washing them was a bit of a hassle. For some reason, I always thought I had to do both together and so on. Even though I do them in the dishwasher (hot enough to clean and sanitize!) I find doing both at once is inconvenient as I need to make enough room for them both to be almost face down to get clean enough. This is less the case with the water dish but they still take up a lot of room. This means I need to make room and end up washing more stuff by hand, etc. I also need to replace his water dish while this is all going on, etc. 
+
+What I have come up with is the following system and it has made things much easier:
+
+1. If there is room in the dishwasher for a single dog bowl;
+2. Wash the FOOD bowl, leave the water bowl where it is, full of water for the dog;
+3. When the wash is done, put the clean bowl down full of clean water and dump the water out of the water bowl; and
+4. Now your old water bowl is your new food bowl and the clean bowl is the water bowl.
+
+If you do this you can accomplish the dog bowl washing without ever needing to make room for two dishes, dirtying a third dish to use as a temporary water bowl, and with less resistance to washing a bowl, they get washed more and stay cleaner. 

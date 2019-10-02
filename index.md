@@ -10,13 +10,8 @@ last_modified_at: 2019-09-03 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Not much to say except our child started school today! Wow. Milestone. He's very happy. That, our 10th anniversary, and watching Cobra Kai have eaten all my non-work, non-normal-life time. Things are good. I am not sure what I want to do with this site, if anything. Why do I even have it? 
-			</li>
-			
-			<li><img src="/assets/page-images/20190905_155941-tomatoes.jpg" width="200" />
-			</li>
-
-
+			<li>Currently watching - Top Boy: Summerhouse (Netflix)</li>
+			<li>Currently attempting - 265 lbs (at 270, right now - 2019-10-01)</li>
 		</ul>
 	</p>
 
