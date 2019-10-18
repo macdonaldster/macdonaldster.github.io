@@ -10,9 +10,9 @@ last_modified_at: 2019-09-03 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Currently watching - Top Boy: Summerhouse (Netflix)</li>
-			<li>Currently attempting - 265 lbs (at 270, right now - 2019-10-01)</li>
-			<li>Trump is a moron (Ukraine) - he clearly released the call transcript because he didn't explicitly come out and say "give us dirt, or Putin is going to roll all over you". However, there is SO MUCH MORE evidence. So much more. He's such an idiot. He keeps saying it was a "perfect call" because he wants that to the be only thing you think matters. So stupid. And yet, there he is. President. Wow. This is what happens to a country when you radically underfund public education for generations.</li>
+			<li>Currently watching - ... nothing? Top Boy: Summerhouse (Netflix) got too dark for me, can only watch little kids getting forced into drug dealing for so long before it gets very hard to watch; reminds of The Wire without the police aspect.</li>
+			<li>Currently attempting - 265 lbs (at 270, right now - 2019-10-01) ... this is going poorly. :)</li>
+			<li>You know what might be fun? If we enjoy what we have, and stop trying to get more if we have enough. That might help the world be a better place.</li>
 		</ul>
 	</p>
 
