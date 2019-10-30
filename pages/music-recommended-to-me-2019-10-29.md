@@ -8,6 +8,8 @@ last_modified_at: 2019-10-29 05:11 -6
 
 # Whenever a friend of mine sends me music I am linking to it here...
 
+These links are presented with some text provided to me right before the URL, in the order they were received (latest first:)
+
 - "goblins!!!" - [https://www.youtube.com/watch?v=ZNpDmKHAjeE](https://www.youtube.com/watch?v=ZNpDmKHAjeE)
 - "Meet me on Mount Carmel!" - 
 [https://www.youtube.com/watch?v=zOZeFuCuiCQ](https://www.youtube.com/watch?v=zOZeFuCuiCQ)
