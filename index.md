@@ -10,9 +10,9 @@ last_modified_at: 2019-09-03 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Currently watching - ... nothing? Top Boy: Summerhouse (Netflix) got too dark for me, can only watch little kids getting forced into drug dealing for so long before it gets very hard to watch; reminds of The Wire without the police aspect.</li>
-			<li>Currently attempting - 265 lbs (at 270, right now - 2019-10-01) ... this is going poorly. :)</li>
-			<li>You know what might be fun? If we enjoy what we have, and stop trying to get more if we have enough. That might help the world be a better place.</li>
+			<li>Currently watching - Outlander and sometimes Living With Yourself - both on Netflix</li>
+			<li>Currently attempting - 265 lbs (at 270, right now - 2019-10-01) ... been doing keto for about a week now and doing well with it. :)</li>
+			<li>Leaving this: "You know what might be fun? If we enjoy what we have, and stop trying to get more if we have enough. That might help the world be a better place."</li>
 		</ul>
 	</p>
 
