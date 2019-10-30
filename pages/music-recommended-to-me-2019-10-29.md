@@ -8,8 +8,7 @@ last_modified_at: 2019-10-29 05:11 -6
 
 # Whenever a friend of mine sends me music I am linking to it here...
 
-- "goblins!!!" - 
-https://www.youtube.com/watch?v=ZNpDmKHAjeE
+- "goblins!!!" - [](https://www.youtube.com/watch?v=ZNpDmKHAjeE)
 - "Meet me on Mount Carmel!" - 
 https://www.youtube.com/watch?v=zOZeFuCuiCQ
 - "neato!" - https://www.youtube.com/watch?v=kWhaxH03Xok
@@ -19,4 +18,3 @@ https://www.youtube.com/watch?v=zOZeFuCuiCQ
 - "orig by aa wallace" -  https://www.youtube.com/watch?v=ogMGaNvHYGc
 - "vogue dots (halifax)" -  https://www.youtube.com/watch?v=y5KSgYy7Ij8
 - "So I've been listening to this maniac recently" - https://www.youtube.com/watch?v=UbSJ0HVwpzc
-- 
