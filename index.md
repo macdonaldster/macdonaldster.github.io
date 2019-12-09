@@ -10,9 +10,9 @@ last_modified_at: 2019-09-03 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Currently watching - Outlander and sometimes Living With Yourself - both on Netflix</li>
-			<li>Currently attempting - 265 lbs (at 270, right now - 2019-10-01) ... been doing keto for about a week now and doing well with it. :)</li>
-			<li>Leaving this: "You know what might be fun? If we enjoy what we have, and stop trying to get more if we have enough. That might help the world be a better place."</li>
+			<li>Currently watching - The Mandalorian on Disney+</li>
+			<li>Currently attempting - 265 lbs (at 275, right now - 2019-12-09) ... Efforts have failed. Redoubling. :)</li>
+			<li>Current mood - wow, what is going on in the US? Feeling lucky for many, many aspects of my life.</li>
 		</ul>
 	</p>
 

@@ -4,7 +4,7 @@ title: Chronic Pain
 date: 2019-11-20
 categories: [health]
 exerpt: Living with chronic pain
-last_modified_at: 2019-11-20  05:00 -6
+last_modified_at: 2019-12-09  05:00 -6
 ---
 
 # Chronic Pain
@@ -18,3 +18,5 @@ Today, though, is one of those days where I am feeling sorry for myself. My legs
 I don't know what the answer is so after my allowed period of self-pity I will snap out of it, get my chin up, and carry on.
 
 It's the next morning now. My leg is a little better. I can do this.
+
+## 2019-12-09 Update - Since I wrote the above, I have felt much better. Whatever was causing that issue has abated and I am able to live more or less normally again. I feel bad about writing that, it was a low point but it reflects reality. Yesterday, in the freezing cold, spontaneously, I was able to take my son and dog tobogganing a short walk from the house. This sounds like nothing but walking in heavy boots in snow, with a 90 lbs. dog on a leash in one hand, and a kids's toboggan in the other would have been basically a nightmare a couple weeks ago but yesterday was fun and relaxing. Gotta take the good with the bad, here. 
