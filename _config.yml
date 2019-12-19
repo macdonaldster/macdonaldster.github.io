@@ -1,6 +1,6 @@
 name: Scott MacDonald, macdonaldster.ca
 markdown: kramdown
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 future: true
 title: macdonaldster.ca
 description: A personal site, not a blog
@@ -16,3 +16,5 @@ feed:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  
+ remote_theme: poole/poole
