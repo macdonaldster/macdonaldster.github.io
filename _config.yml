@@ -17,4 +17,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   
- remote_theme: poole/poole
+ remote_theme: mdo/poole
