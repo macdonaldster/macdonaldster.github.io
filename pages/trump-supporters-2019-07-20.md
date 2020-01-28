@@ -3,7 +3,7 @@ layout: default
 title: Trump Supporters 
 date: 2019-05-30
 categories: [politics]
-last_modified_at: 2019-08-12 06:00 -6
+last_modified_at: 2020-01-09 06:00 -6
 ---
 
 # Trump Supporters
@@ -80,6 +80,18 @@ I want to get into this more but it will need to wait for another day. I'll publ
 - declare "it doesn't matter"
 - connect dots that are not related, deep state, etc. 
 
+## "I voted for Obama" or "I was a huge Bernie Supporter"
+
+There are three explanations for people that say this (used to be one or the other but not support Trump):
+
+1. They are lying - this is a well known technique. They are trying to make a non-supporter think that they were the same before but "woke up" and now support Trump. It is a dishonest technique used by people who think the ends justify the means.
+
+2. They are low information voters who are sick of the status quo - these are people who just wanted something different. They don't really know much about what is going on but they see "the establishment" freaking out over Trump and think "earned my treat". They think they disrupted the system by voting for an outsider and don't care to think more deeply about it.
+
+3. Cognitive Dissonance - these people hold contradictory opinions or incorrect opinions all the time without it ever occurring to them that they are a hypocrite. They do not realize (or do, but do not care) that their position makes no sense. There is no point is asking how they can vote for Obama and then Trump. Their explanation will make no sense to you and when you point out the logical inconsistency they will ignore it or become angry/deflect.
+
+Can you reach a type 2 voter? Yes, I think these people occasionally pay attention or can be reached by a rational argument and reconsider their support. Especially now that Trumps horrible track record is easier to see in the news. 
+
 ## Links that illustrate my points
 
 These are basically anecdotal but here are links where you can see people discussing their support for Trump (or discussion Trump Supporters) that offer some support for what I have written above:
@@ -98,4 +110,4 @@ _Revision Log_
 * 2019-04-24 - added "Links that illustrate my points" section and ATS link 
 * 2019-05-30 - added some more "illustrate my points" links
 * 2019-08-12 - Added YouTube link to some Trump rally footage
-					
+* 2020-01-09 - adding a note on "used to support Bernie"					
