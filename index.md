@@ -1,8 +1,8 @@
 ---
 layout: default
 title: ... home
-date: 2019-07-01
-last_modified_at: 2019-09-03 06:54 -6
+date: 2020-01-29
+last_modified_at: 2020-01-29 06:54 -6
 ---
 <div class="blurb">
 	<h1>Hi there, I'm Scott MacDonald!</h1>	
@@ -10,9 +10,10 @@ last_modified_at: 2019-09-03 06:54 -6
 
 	<p>Notes:
 		<ul>
-			<li>Currently watching - The Mandalorian on Disney+</li>
-			<li>Currently attempting - 265 lbs (at 275, right now - 2019-12-09) ... Efforts have failed. Redoubling. :)</li>
-			<li>Current mood - wow, what is going on in the US? Feeling lucky for many, many aspects of my life.</li>
+			<li>Currently watching - Disenchantment</li>
+			<li>Currently attempting - 265 lbs (at 273, right now - 2020-01-29) ... See <a href="/pages/2020-01-28-blog.html">2020-01-28-blog</a> for more info...</li>
+			<li>Current mood - I just finished a 550 piece Harry Potter puzzle we got for my son. Well, I left three pieces for him to finish in the morning because I am not a selfish jerk. I've been working on it in my free time for a while now and I love the feeling of placing each piece but am glad it is done. :)</li>
+			<li>Current reading - the new Willing Gibson novel: <a href="https://en.wikipedia.org/wiki/Agency_(novel)">Agency</a>. </li>
 		</ul>
 	</p>
 
