@@ -1,6 +1,9 @@
 name: Scott MacDonald, macdonaldster.ca
 markdown: kramdown
-theme: jekyll-theme-midnight
+
+#theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
+
 #remote_theme: poole/poole
 future: true
 title: macdonaldster.ca
