@@ -2,7 +2,7 @@ name: Scott MacDonald, macdonaldster.ca
 markdown: kramdown
 
 #theme: jekyll-theme-midnight
-theme: jekyll-theme-slate
+theme: jekyll-theme-minima
 
 #remote_theme: poole/poole
 future: true
