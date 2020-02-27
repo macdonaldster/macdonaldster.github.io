@@ -9,10 +9,9 @@ last_modified_at: 2020-01-29 06:54 -6
 	<p>Going to create a personal site instead of a blog, I guess.</p>	
 
 	<p>Latest: {% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
-	{% for p in sorted %}
+	{% for p in sorted limit:1 %}
 		{% if p.categories != [] %}
 	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
-		   {% endfor %}
 		{% endif %}
  	{% endfor %}
 	 </p>
