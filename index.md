@@ -8,7 +8,7 @@ last_modified_at: 2020-01-29 06:54 -6
 	<h1>Hi there, I'm Scott MacDonald!</h1>	
 	<p>Going to create a personal site instead of a blog, I guess.</p>	
 
-	<h1>Latest: {% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
+	<h1>Latest page: {% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
 	{% for p in sorted limit:1 %}
 	  	 <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
  	{% endfor %}
