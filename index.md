@@ -10,7 +10,7 @@ last_modified_at: 2020-01-29 06:54 -6
 
 	<h1>Latest: {% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
 	{% for p in sorted limit:1 %}
-	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }}</a></li>
+	  	 <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
  	{% endfor %}
 	 </h1>
 
