@@ -21,4 +21,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   
+comments: true
 
