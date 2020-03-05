@@ -20,9 +20,3 @@ feed:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  
-comments:
-  provider: disqus
-  disqus:
-    short_name: macdonaldster
-
