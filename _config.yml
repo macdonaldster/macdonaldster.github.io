@@ -21,8 +21,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   
-  comments :
-    provider : disqus
-    disqus :
-      short_name : macdonaldster
+comments:
+  provider: disqus
+  disqus:
+    short_name: macdonaldster
 
