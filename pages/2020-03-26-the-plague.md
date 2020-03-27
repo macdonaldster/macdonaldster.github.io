@@ -2,7 +2,7 @@
 layout: default
 title: The Plague 2020-03-26
 date: 2020-03-26
-categories: [blog]
+categories: [covid19]
 last_modified_at: 2020-03-26 15:00 -6
 comments: true
 ---
