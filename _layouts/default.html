@@ -49,6 +49,13 @@
     
       </section>
 
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+      
       {% if page.comments %}
       <section>  
         <div id="disqus_thread"></div>
@@ -69,7 +76,8 @@
                 s.src = 'https://macdonaldster.disqus.com/embed.js';
                 
                 s.setAttribute('data-timestamp', +new Date());
-                (d.head || d.body).appendChild(s);
+
+            (d.head || d.body).appendChild(s);
             })();
         </script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
@@ -86,7 +94,7 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (function(undei,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
@@ -94,5 +102,11 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+    
   </body>
 </html>
