@@ -5,10 +5,6 @@ date: 2020-01-29
 last_modified_at: 2020-01-29 06:54 -6
 ---
 
-{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
-
 <div class="blurb">
 	<h1>Latest page: {% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
 	{% for p in sorted limit:1 %}
