@@ -6,13 +6,13 @@
 {% assign rawtags = rawtags | split:'|' | sort %}
 
 {% assign site.categories = "" %}
-{% for tag in rawtags %}
-  {% if tag != "" %}
-    {% if tags == "" %}
-      {% assign tags = tag | split:'|' %}
+{% for cat in rawtags %}
+  {% if cat != "" %}
+    {% if cat == "" %}
+      {% assign tags = cat | split:'|' %}
     {% endif %}
-    {% unless tags contains tag %}
-      {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+    {% unless tags contains cat %}
+      {% assign tags = tags | join:'|' | append:'|' | append:cat | split:'|' %}
     {% endunless %}
   {% endif %}
 {% endfor %}
