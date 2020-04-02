@@ -51,6 +51,12 @@
     
       </section>
 
+<span>[
+  {% for category in page.categories %}
+    {% capture tag_name %}{{ category }}{% endcapture %}
+    <a href="/category/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
       
       {% if page.comments %}
       <section>  
