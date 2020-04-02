@@ -9,6 +9,7 @@ future: true
 title: macdonaldster.ca
 description: A personal site, not a blog
 exclude: [archive/]
+include: ["pages"]
 logo: assets/sitelogo.jpg
 google_analytics: UA-57864847-1
 url: "http://macdonaldster.ca"
@@ -20,3 +21,4 @@ feed:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-archives
