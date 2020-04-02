@@ -2,9 +2,9 @@
 layout: default
 ---
 <div class="post">
-<h1>Tag: {{ page.tag }}</h1>
+<h1>Category: {{ page.category}}</h1>
 <ul>
-{% for page in site.tags[page.tag] %}
+{% for page in site.categories[page.category] %}
   <li><a href="{{ post.url }}">{{ page.title }}</a> ({{ page.date | date_to_string }})<br>
     {{ page.description }}
   </li>
