@@ -3,8 +3,12 @@ layout: default
 permalink: "/category/blog.html"
 ---
 
+
+
 	<h2>Pages (last updated, first):</h2>
-	<ul>
+{% comment %}
+
+<ul>
 	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
 	{% for p in sorted %}
 		{% if p.categories contains "covid19" %}
@@ -13,4 +17,4 @@ permalink: "/category/blog.html"
  	{% endfor %}
 	</ul>
 
-
+{% endcomment %}
