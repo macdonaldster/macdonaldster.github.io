@@ -8,7 +8,7 @@ permalink: "/category/covid19.html"
 	<ul>
 	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
 	{% for p in sorted %}
-		{% if p.categories contains 'covid19' %}
+		{% if p.categories contains "covid19" %}
 	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
 		{% endif %}
  	{% endfor %}
