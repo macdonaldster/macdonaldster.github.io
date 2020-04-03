@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: default
 tag: blog
 permalink: "/category/blog.html"
 ---

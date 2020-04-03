@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: default
 tag: covid19
 permalink: "/category/covid19.html"
 ---
