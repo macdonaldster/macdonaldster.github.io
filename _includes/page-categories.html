@@ -1,8 +1,9 @@
-{% if post %}
-  {% assign categories = post.categories %}
-{% else %}
-  {% assign categories = page.categories %}
+
+
+  {% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
+  {% for p in sorted %}
+  {% if p.categories == page.category %}
+<li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
 {% endif %}
-{% for category in categories %}
-  <span class="entry-categories"><a href="{{ page.category-url | absolute_url }}" rel="category">{{ page.category }}</a></span>{% unless forloop.last %},{% endunless %}
 {% endfor %}
+
