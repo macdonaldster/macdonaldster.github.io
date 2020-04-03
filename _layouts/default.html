@@ -51,18 +51,6 @@
     
       </section>
       
-      <section>
-
-	<div class="tags">
-	  {% assign sortedCategories = page.categories | sort %}
-	  {% for category in sortedCategories %}
-          <span class="tag">
-            <a href="/category/{{ category }}">#{{ category }}</a>
-          </span>
-	  {% endfor %}
-	</div>
-	
-      </section>
 
       {% if page.comments %}
       <section>  
