@@ -1,5 +1,5 @@
 ---
 layout: category
 tag: blog
-permalink: "/category/blog"
+permalink: "/category/blog.html"
 ---
