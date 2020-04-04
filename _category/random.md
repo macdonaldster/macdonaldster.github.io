@@ -1,7 +1,7 @@
 ---
 layout: default
-tag: covid19
-permalink: "/category/covid19.html"
+tag: random
+permalink: "/category/random.html"
 ---
 
 <h1>#{{ page.tag }} (oldest first):</h1>

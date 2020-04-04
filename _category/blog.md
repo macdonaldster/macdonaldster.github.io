@@ -1,6 +1,6 @@
 ---
 layout: default
-tag: covid19
+tag: blog
 permalink: "/category/blog.html"
 ---
 
