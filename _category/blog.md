@@ -8,12 +8,16 @@ Test5
 
 <ul>
 	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
-	{% comment %}
+
 	{% for p in sorted %}
+		{% comment %}
 		{% if p.categories contains "covid19" %}
 	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
 		{% endif %}
+		{% endcomment %}
  	{% endfor %}
 	</ul>
 
-{% endcomment %}
+
+
+
