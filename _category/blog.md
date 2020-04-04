@@ -4,8 +4,7 @@ tag: covid19
 permalink: "/category/blog.html"
 ---
 
-<h2>Pages (last updated, first):</h2>
-Test5
+<h1>#{% page.tag %} (last updated, first):</h1>
 
 <ul>
 	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
