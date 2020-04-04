@@ -5,7 +5,6 @@ permalink: "/category/blog.html"
 
 <h2>Pages (last updated, first):</h2>
 Test5
-
 {% comment %}
 
 <ul>
