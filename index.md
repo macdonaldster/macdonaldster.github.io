@@ -14,6 +14,7 @@ last_modified_at: 2020-01-29 06:54 -6
 
 	<p>Notes:
 		<ul>
+		<li>I added category pages to this site so now can refer you to the [COVID19](/category/covid19.html) page where I am collecting thoughts on life during this pandemic. 
 			<li>I thought I would stick this link here to remind me why and how to journal - <a href="https://dariusforoux.com/how-to-journal/">https://dariusforoux.com/how-to-journal/</a></li>
 			<li>Mood as of 2020-02-26 - It's getting warmer every day but I need to fly in March and there's COVID-19 to think about.</li>
 			<li>Currently watching - Frontier, Season 3 (Netflix)</li>
