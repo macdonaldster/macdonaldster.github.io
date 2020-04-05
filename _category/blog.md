@@ -4,5 +4,5 @@ tag: blog
 permalink: "/category/blog.html"
 ---
 
-{% page-categories.html %}
+{% include page-categories.html %}
 
