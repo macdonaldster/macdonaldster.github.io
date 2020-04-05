@@ -9,7 +9,9 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    {% feed_meta %}
+
+{% feed_meta %}    
+    
   </head>
   <body>
     <div class="wrapper">
@@ -19,11 +21,25 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" style="border-radius: 50%; float: left; width: 60px;" />
         {% endif %}
+	  
+        <p>{{ site.description | default: site.github.project_tagline }} | Changes? <a href="/feed/pages.xml">XML Sitemap</a></p>
+		<p><small>
+	  <a href="/category/blog.html">#blog</a> |
+	  <a href="/category/covid19.html">#covid19</a> |
+	  <a href="/category/dog.html">#dog</a> |
+	  <a href="/category/health.html">#health</a> |
+	  <a href="/category/mindfulness.html">#mindfulness</a> |
+	  <a href="/category/notes.html">#notes</a> |
+	  <a href="/category/organizing.html">#organizing</a> | 
+	  <a href="/category/politics.html">#politics</a> |
+	  <a href="/category/random.html">#random</a> |
+	  <a href="/category/site.html">#site</a> |
+	  <a href="/category/TIL.html">#TIL</a>
+	  </small>
+	</p>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <ul>
-          <li>Changes? <a href="/feed/pages.xml">XML Sitemap</a></li>
-        </ul>
+
+	  
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -48,6 +64,19 @@
      {% include anchor_headings.html html=content %}
     
       </section>
+      
+      <section>
+
+	<div class="tags">
+	  {% assign sortedCategories = page.categories  %}
+	  {% for category in sortedCategories %}
+          <span class="tag">
+            <a href="/category/{{ category }}.html">#{{ category }}</a>
+          </span>
+	  {% endfor %}
+	</div>
+	
+      </section>
 
       {% if page.comments %}
       <section>  
@@ -69,7 +98,8 @@
                 s.src = 'https://macdonaldster.disqus.com/embed.js';
                 
                 s.setAttribute('data-timestamp', +new Date());
-                (d.head || d.body).appendChild(s);
+
+            (d.head || d.body).appendChild(s);
             })();
         </script>
         <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
@@ -86,7 +116,7 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (function(undei,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
@@ -94,5 +124,8 @@
       ga('send', 'pageview');
     </script>
     {% endif %}
+
+
+        
   </body>
 </html>

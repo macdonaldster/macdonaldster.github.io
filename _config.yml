@@ -17,6 +17,10 @@ feed:
   collections:
     - pages
 
+collections:
+  category:
+    output: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
