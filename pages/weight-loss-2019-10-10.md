@@ -9,6 +9,8 @@ comments: true
 
 # Evolving Thoughts on Weight Loss
 
+Lates update: <a href="#2020-04-04">2020-04-04</a>
+
 **2019-10-10** - I just need a place to put down my thoughts as they arise. This is a very complicated and irritating source of negativity in my life.
 
 * I want to lose weight
@@ -35,6 +37,7 @@ That's really it.
 **2019-10-24** - Back from vacation, starting Keto in earnest. Stay tuned. The back pain/inflammation I have been dealing with for a while has subsided, mostly. Was really bad on vacation as I was not eating correctly (I think?). Looking forward to getting the full Keto experience - ha ha.
 
 **2020-04-04** - How the mighty have fallen.
+<a name="2020-04-04"></a>
 
 I was on track, I was doing well. I was losing weight. The trend line was negative. Then we had a global pandemic. I was no longer on track. We started "stress eating". I didn't get even the rudimentary exercise of trips to and from my son's school. I started making and eating homemade bread. I upped my carb portion at meals from a 1/3 cup to "whatever I wanted".
 
