@@ -21,3 +21,4 @@ So I put them away for a bit and used wired headphones. We have tons of pairs la
 
 So, experiment over. Going back to wireless. Just need to get some new ones now. I am going to try to pair my old set with my work computer and use it for vidconf, new pair just for the phone. We'll see how that goes.
 
+
