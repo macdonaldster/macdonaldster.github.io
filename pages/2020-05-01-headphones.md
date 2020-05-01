@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2020-05-01 Headphones
+title: Headphones
 date: 2020-05-01
 categories: [blog]
 last_modified_at: 2020-05-01 05:11 -6
