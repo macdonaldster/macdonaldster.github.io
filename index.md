@@ -18,7 +18,7 @@ last_modified_at: 2020-01-29 06:54 -6
 			<li>I thought I would stick this link here to remind me why and how to journal - <a href="https://dariusforoux.com/how-to-journal/">https://dariusforoux.com/how-to-journal/</a></li>
 			<li>Mood as of 2020-06-28 - sick and tired of being sick and tired?
 			<li>Currently watching - Musketeers (Netflix)</li>
-			<li>Currently attempting - ??? weight loss fail
+			<li>Currently attempting - ??? weight loss fail</li>
 			<li>Current reading - the new William Gibson novel: <a href="https://en.wikipedia.org/wiki/Agency_(novel)">Agency</a> and Foundryside. </li>
 		</ul>
 	</p>
