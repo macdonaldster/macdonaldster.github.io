@@ -1,8 +1,8 @@
 ---
 layout: default
 title: ... home
-date: 2020-01-29
-last_modified_at: 2020-01-29 06:54 -6
+date: 2020-08-12
+last_modified_at: 2020-08-12 06:54 -6
 ---
 
 <div class="blurb">
@@ -16,10 +16,8 @@ last_modified_at: 2020-01-29 06:54 -6
 		<ul>
 		<li>I added category pages to this site so now can refer you to the <a href="/category/covid19.html">COVID19</a> page where I am collecting thoughts on life during this pandemic. </li>
 			<li>I thought I would stick this link here to remind me why and how to journal - <a href="https://dariusforoux.com/how-to-journal/">https://dariusforoux.com/how-to-journal/</a></li>
-			<li>Mood as of 2020-06-28 - sick and tired of being sick and tired?
-			<li>Currently watching - Musketeers (Netflix)</li>
-			<li>Currently attempting - ??? weight loss fail</li>
-			<li>Current reading - the new William Gibson novel: <a href="https://en.wikipedia.org/wiki/Agency_(novel)">Agency</a> and Foundryside. </li>
+			<li>The phrase "isn't there anything faster than a microwave" from The Simpons crosses my mind between 1 and 20 times a day.</li>
+			<li>Why are we still designing new styles of pants? After all this time, shouldn't we have figured that out?</li>
 		</ul>
 	</p>
 
