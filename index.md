@@ -21,7 +21,7 @@ last_modified_at: 2020-08-12 06:54 -6
 		</ul>
 	</p>
 
-	<h2>Blogs (last updated, first):</h2>
+	<h2>Dailies (last updated, first):</h2>
 	<ul>
 	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse | where_exp:"p", "p.title contains '2020'" %}
 	{% for p in sorted %}
@@ -31,7 +31,7 @@ last_modified_at: 2020-08-12 06:54 -6
 
 
 
-	<h2>Pages (last updated, first):</h2>
+	<h2>All Pages (last updated, first):</h2>
 	<ul>
 	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
 	{% for p in sorted %}
