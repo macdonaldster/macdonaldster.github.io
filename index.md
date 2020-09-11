@@ -23,11 +23,9 @@ last_modified_at: 2020-08-12 06:54 -6
 
 	<h2>Blogs (last updated, first):</h2>
 	<ul>
-	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
+	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse | where_exp:"p", "p.title contains '2020'" %}
 	{% for p in sorted %}
-		{% if p.title startswith '2020' %}
 	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
-		{% endif %}
  	{% endfor %}
 	</ul>
 
