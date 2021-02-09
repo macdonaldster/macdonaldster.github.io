@@ -6,7 +6,7 @@ last_modified_at: 2020-08-12 06:54 -6
 ---
 
 <div class="blurb">
-	<h1>Latest page: {% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
+	<h1>Latest page: {% assign sorted = site.pages | sort: 'last_modified_at' | reverse %}
 	{% for p in sorted limit:1 %}
 	  	 <a href="{{ p.url | absolute_url }}">{{ p.title }}</a>
  	{% endfor %}
@@ -21,23 +21,25 @@ last_modified_at: 2020-08-12 06:54 -6
 		</ul>
 	</p>
 
-	<h2>Pages (last updated, first):</h2>
+	<h2>Blogs (last updated, first):</h2>
 	<ul>
-	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
+	{% assign sorted = site.pages | sort: 'last_modified_at' | reverse %}
 	{% for p in sorted %}
-		{% if p.title startswith '2020' %}
-	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
+		{% if p.title contains '2020-' or p.title contains '2021-' %}
+	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }}</a></li>
 		{% endif %}
  	{% endfor %}
 	</ul>
 
 
-	<h2>Pages (last updated, first):</h2>
+	<h2>All Pages (last updated, first):</h2>
 	<ul>
-	{% assign sorted = (site.pages | sort: 'last_modified_at') | reverse %}
+	{% assign sorted = site.pages | sort: 'last_modified_at' | reverse %}
 	{% for p in sorted %}
-		{% if p.categories != [] %}
-	  	 <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
+		{% if p.categories.size > 0  %}
+		   {% unless p.categories contains 'blog' %}
+	  	      <li> <a href="{{ p.url | absolute_url }}">{{ p.title }} | {{ p.last_modified_at | date: "%Y-%m-%d" }} </a></li>
+		   {% endunless %}
 		{% endif %}
  	{% endfor %}
 	</ul>
