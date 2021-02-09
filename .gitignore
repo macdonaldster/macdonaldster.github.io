@@ -1,3 +1,4 @@
 _site/
 .vscode/workbench.json
+vendor/
 *~
