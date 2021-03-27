@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+
+    
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://macdonaldster.ca/">macdonaldster.ca</a></h1>
+        
+        
+          <img src="/assets/sitelogo.jpg" alt="Logo" style="border-radius: 50%; float: left; width: 60px;" />
+        
+	  
+        <p>A personal site, not a blog | Changes? <a href="/feed/pages.xml">XML Sitemap</a></p>
+		<p><small>
+	  <a href="/category/blog.html">#blog</a> |
+	  <a href="/category/covid19.html">#covid19</a> |
+	  <a href="/category/dog.html">#dog</a> |
+	  <a href="/category/health.html">#health</a> |
+	  <a href="/category/mindfulness.html">#mindfulness</a> |
+	  <a href="/category/notes.html">#notes</a> |
+	  <a href="/category/organizing.html">#organizing</a> | 
+	  <a href="/category/politics.html">#politics</a> |
+	  <a href="/category/random.html">#random</a> |
+	  <a href="/category/site.html">#site</a> |
+	  <a href="/category/TIL.html">#TIL</a>
+	  </small>
+	</p>
+
+
+	  
+
+        
+
+        <!--
+        
+
+        
+        -->
+      </header>
+      <section>
+
+     <h1 id="jekyll-github-pages---category-pages">
+        
+        
+          Jekyll Github Pages - Category Pages <a href="#jekyll-github-pages---category-pages"></a>
+        
+        
+      </h1>
+
+<p>Well, it took a while but I finally got category pages going on this site.</p>
+
+<p>I am using Github Pages to host the site and the jekyll-archive plugin is not supported so I had to make the pages myself. I can come up with a tutorial if you leave a comment, below, letting me know you’d like to see one.</p>
+
+<p>At this time, I will say I didn’t go with a method I saw on any of the many sites I read while trying to figure this out. Since I use pages with categories (and not posts with tags), my setup is a little different.</p>
+
+<p>I did have to make each category page manually (e.g. “_category/blog.md”) but the code in each one is identical. The only things to configure are adding a page tag (tags: blog) and setting the permalink. Then in the page body there is code like the code that generates the list of posts on this site’s homepage except it checks if page.categories contains page.tag.</p>
+    
+      </section>
+      
+      <section>
+
+	<div class="tags">
+	  
+	  
+          <span class="tag">
+            <a href="/category/site.html">#site</a>
+          </span>
+	  
+	</div>
+	
+      </section>
+
+      
+      <section>  
+        <div id="disqus_thread"></div>
+        <script>
+            /**
+             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+             */
+            
+            var disqus_config = function () {
+                this.page.url = "https://macdonaldster.ca//pages/category-pages.html";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "/pages/category-pages.html"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+            
+            (function() {  // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                
+                s.src = 'https://macdonaldster.disqus.com/embed.js';
+                
+                s.setAttribute('data-timestamp', +new Date());
+
+            (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+      </section>
+      
+
+      <footer>
+        
+        <p><small>Theme is <a href="https://github.com/jekyll/minima">minima</a></small></p>
+      </footer>
+    </div>
+
+   
+  
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57864847-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57864847-1');
+</script>
+
+        
+
+        
+  </body>
+</html>
