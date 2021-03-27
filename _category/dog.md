@@ -1,7 +1,7 @@
 ---
 layout: default
-tag: blog
-permalink: "/category/blog.html"
+tag: dog
+permalink: "/category/dog.html"
 ---
 
 {% assign site_pages = site.pages  %}

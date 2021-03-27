@@ -3,10 +3,13 @@ layout: default
 title: Weight Loss (evolving thoughts)
 date: 2019-10-10
 categories: [health]
-last_modified_at: 2019-10-10 05:11 -6
+last_modified_at: 2020-04-04 05:11 -6
+comments: true
 ---
 
 # Evolving Thoughts on Weight Loss
+
+Lates update: <a href="#2020-04-04">2020-04-04</a>
 
 **2019-10-10** - I just need a place to put down my thoughts as they arise. This is a very complicated and irritating source of negativity in my life.
 
@@ -32,3 +35,16 @@ That's really it.
 **2019-10-18** - Inflammation mostly gone now except first thing in the morning and a little in my lower back. I am "full keto" now. Tracking using the Carb Manager app. I got a year's subscription to it. Going all in. It is slow. I am not sure if that is on thier end or something on my end. Good app once it is working, though (specializes in Keto nutrition, etc).
 
 **2019-10-24** - Back from vacation, starting Keto in earnest. Stay tuned. The back pain/inflammation I have been dealing with for a while has subsided, mostly. Was really bad on vacation as I was not eating correctly (I think?). Looking forward to getting the full Keto experience - ha ha.
+
+**2020-04-04** - How the mighty have fallen.
+<a name="2020-04-04"></a>
+
+I was on track, I was doing well. I was losing weight. The trend line was negative. Then we had a global pandemic. I was no longer on track. We started "stress eating". I didn't get even the rudimentary exercise of trips to and from my son's school. I started making and eating homemade bread. I upped my carb portion at meals from a 1/3 cup to "whatever I wanted".
+
+Well, the chart below shows how that went. I have indicated my low point and approximately where I went off the rails. This is why you need to track.
+
+![weight as of 2020-04-04](assets/2020-04-04-weight.png)
+
+So, I am getting back on the horse. I am going to try to take back the responsibility and think about what the hell I've been doing all this time. I am going to think about growing old in a healthy way. About being a good role model for our son. About being robust in my later years. I don't really have a choice. I also need to start doing cardio in the house if we aren't getting out for walks. It's still basically Winter here so it's been a challenge. I am looking forward to warmer weather.
+
+Wish me luck!
