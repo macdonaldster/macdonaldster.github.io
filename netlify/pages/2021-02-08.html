@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+
+
+    
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="http://macdonaldster.ca/">macdonaldster.ca</a></h1>
+        
+        
+          <img src="/assets/sitelogo.jpg" alt="Logo" style="border-radius: 50%; float: left; width: 60px;" />
+        
+	  
+        <p>A personal site, not a blog | Changes? <a href="/feed/pages.xml">XML Sitemap</a></p>
+		<p><small>
+	  <a href="/category/blog.html">#blog</a> |
+	  <a href="/category/covid19.html">#covid19</a> |
+	  <a href="/category/dog.html">#dog</a> |
+	  <a href="/category/health.html">#health</a> |
+	  <a href="/category/mindfulness.html">#mindfulness</a> |
+	  <a href="/category/notes.html">#notes</a> |
+	  <a href="/category/organizing.html">#organizing</a> | 
+	  <a href="/category/politics.html">#politics</a> |
+	  <a href="/category/random.html">#random</a> |
+	  <a href="/category/site.html">#site</a> |
+	  <a href="/category/TIL.html">#TIL</a>
+	  </small>
+	</p>
+
+
+	  
+
+        
+
+        <!--
+        
+
+        
+        -->
+      </header>
+      <section>
+
+     <h1 id="2021-02-08-blog">
+        
+        
+          2021-02-08 Blog <a href="#2021-02-08-blog"></a>
+        
+        
+      </h1>
+
+<p>I have moved the site to be self-hosted, away from Github pages. I found trying to add features to the site was cumbersome and it takes a while for the system to refresh when you commit an edit so trying this for a while.</p>
+
+<p>It is using my hard-coded IP so hopefully I can stay on top of that.</p>
+
+<p><b>Later…</b></p>
+
+<p>What is the value in writing for public consumption? Is there anything particularly valuable about putting this out in the world versus keeping it to myself?</p>
+
+<p>Well, there is the <a href="https://www.google.com/search?q=rhetorical+triangle&amp;sxsrf=ALeKk034B_pL9nLoqiyysLNAsjTg_Yn3rA:1612847254190&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjWpKadhNzuAhXO3J4KHS_TBZQQ_AUoAXoECAIQAw&amp;biw=1197&amp;bih=937" target="_blank">Rhetorical Triangle</a> where we see the three pillars of rhetoric - speaker, message, and audience.</p>
+
+<ul>
+  <li>Speaker - me! I am the speaker - presumably the message, below, is something I want to convey to the audience, also below. In general, people have some kind of agenda.</li>
+  <li>Message - these posts… if you read them, you will find there is not much of value here, just my thoughts.</li>
+  <li>Audience - the reader (in this case, singular, and also me) - it is an empirical that I am the only person that views this site unless I send someone a link.</li>
+</ul>
+
+<p>So, I guess if I were to define my message, it is just sharing of information. I think that information is good, and more is better. Who knows, maybe some programmer with an ostomy who suffers from Ankylosing Spondylitis and has a child and two dogs with their spouse will stumble on this page and discover they have had a kindred spirit out there in the world.</p>
+
+<p><b>Here is something about programming</b> - today I spent a ton of time generating emails for someone else to review. The designer who builds the emails can’t generate them all himself, so he relies on me to send him the actual emails built from templates he works on to make sure the final round of revisions has everything lined up correctly. Then the QA person also needs to review all these emails. Since the email system is designed to be triggered by complex events in the system, for each email type (e.g. new order, part review) I need to think up a quick and easy way to generate that email without actually compromising the integrity of the test we are trying to run. It is tedious. Even with a bunch of work to make it quick and painless, I am still messing with stuff to trigger the emails. Lesson learned - every system that produces output, should have a way to generate that output so it can be validated. In my case, instead of cobbling together a bunch of SQL scripts to do what I needed (e.g. find orders, etc) I could have made that into a single stored procedure that dumped out the values needed to trigger each type of email and that would be used as input to the email sending code. A couple of hours work, and I can generate all the emails I want with real data.</p>
+
+<p>But, the reality is, I got through today and probably won’t need to do it again for a while. Another program that will not be written. :)</p>
+    
+      </section>
+      
+      <section>
+
+	<div class="tags">
+	  
+	  
+          <span class="tag">
+            <a href="/category/blog.html">#blog</a>
+          </span>
+	  
+          <span class="tag">
+            <a href="/category/site.html">#site</a>
+          </span>
+	  
+	</div>
+	
+      </section>
+
+      
+      <section>  
+        <div id="disqus_thread"></div>
+        <script>
+            /**
+             *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+             *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+             */
+            
+            var disqus_config = function () {
+                this.page.url = "https://macdonaldster.ca//pages/2021-02-08.html";  // Replace PAGE_URL with your page's canonical URL variable
+                this.page.identifier = "/pages/2021-02-08.html"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+            };
+            
+            (function() {  // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                
+                s.src = 'https://macdonaldster.disqus.com/embed.js';
+                
+                s.setAttribute('data-timestamp', +new Date());
+
+            (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+      </section>
+      
+
+      <footer>
+        
+        <p><small>Theme is <a href="https://github.com/jekyll/minima">minima</a></small></p>
+      </footer>
+    </div>
+
+   
+  
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-57864847-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-57864847-1');
+</script>
+
+        
+
+        
+  </body>
+</html>
