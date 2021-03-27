@@ -27,3 +27,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
 
+keep_files: [scripting]
