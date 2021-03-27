@@ -2,7 +2,9 @@ name: Scott MacDonald, macdonaldster.ca
 markdown: kramdown
 
 #theme: jekyll-theme-midnight
-theme: minima
+#theme: minima
+#gem "minima"
+
 
 #remote_theme: poole/poole
 future: true
@@ -24,3 +26,5 @@ collections:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+
+keep_files: [scripting]

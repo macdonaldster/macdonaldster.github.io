@@ -1,3 +1,5 @@
 _site/
 .vscode/workbench.json
+vendor/
+.jekyll-cache/
 *~
