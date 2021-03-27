@@ -9,7 +9,7 @@ comments: true
 
 # Evolving Thoughts on Weight Loss
 
-Lates update: <a href="#2020-04-04">2020-04-04</a>
+Latest update: <a href="#2020-04-04">2020-04-04</a>
 
 **2019-10-10** - I just need a place to put down my thoughts as they arise. This is a very complicated and irritating source of negativity in my life.
 
