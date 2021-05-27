@@ -1,7 +1,7 @@
-<h1>#{{ page_tag }} (oldest first):</h1>
+<h1>#{{ page_tag }} (latest first):</h1>
 
 <ul>
-	{% assign sorted = (site_pages | sort: 'last_modified_at')  %}
+	{% assign sorted = (site_pages | sort: 'last_modified_at' | reverse )  %}
 
 	{% for p in sorted %}
 
