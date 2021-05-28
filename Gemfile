@@ -3,10 +3,10 @@
 source "https://rubygems.org"
 
 
-
+gem 'jekyll-archives'
 gem "jekyll"
 gem "jekyll-sitemap"
 gem "jekyll-feed"
 gem "minima"
-gem 'jekyll-archives', '~> 2.2', '>= 2.2.1'
+
 #gem "dark-poole"
