@@ -26,5 +26,6 @@ collections:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-archives
 
 keep_files: [scripting]
