@@ -6,11 +6,9 @@ categories: [blog,covid19]
 last_modified_at: 2021-03-28 15:00 -6
 comments: true
 ---
-
 # The Plague - 2020-03-28
 
 It has been a year since I wrote specifically about COVID.
-
 <!--more-->
 
 As that year has gone on, I went from being terrified to go into a gas station to just avoiding crowded places. We plan store visits for early mornings and try to do curbside pick up or delivery whenever possible. Delivery costs more and you have less control over the items you get (e.g. when buying groceries) but we are also not spending money "going out" or travelling. So, financially, we are doing fine and are among the lucky ones who kept our jobs and are working from home. 
