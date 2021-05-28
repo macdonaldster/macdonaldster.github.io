@@ -30,3 +30,5 @@ plugins:
 
 keep_files: [scripting]
 
+
+excerpt_separator: <!--more-->

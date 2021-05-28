@@ -11,6 +11,8 @@ comments: true
 
 It has been a year since I wrote specifically about COVID.
 
+<!--more-->
+
 As that year has gone on, I went from being terrified to go into a gas station to just avoiding crowded places. We plan store visits for early mornings and try to do curbside pick up or delivery whenever possible. Delivery costs more and you have less control over the items you get (e.g. when buying groceries) but we are also not spending money "going out" or travelling. So, financially, we are doing fine and are among the lucky ones who kept our jobs and are working from home. 
 
 I think this has been hardest on our son. He is at the age where normally he'd be playing with other kids all the time, going on play dates after school, meeting at the playground, going to birthday parties, and playing sports and other scheduled activities. He did get to play hockey for a while this Winter but that got shut down. We are looking forward to Soccer this summer for him. 
