@@ -8,7 +8,7 @@ last_modified_at: 2020-08-12 06:54 -6
 <br/>
 <div class="blurb">
 	{% assign sorted = site.pages | sort: 'last_modified_at' | reverse %}
-	{% for p in sorted limit:1 %}
+	{% for p in sorted limit:3 %}
 		<div>
 			{{p.content | markdownify }}
 		</div>

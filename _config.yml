@@ -26,8 +26,7 @@ collections:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-category-pages
+
 
 keep_files: [scripting]
 
-permalink: /:year/:month/:day/:title:output_ext
