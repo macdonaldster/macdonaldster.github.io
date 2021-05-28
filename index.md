@@ -10,7 +10,7 @@ last_modified_at: 2020-08-12 06:54 -6
 	{% assign sorted = site.pages | sort: 'last_modified_at' | reverse %}
 	{% for p in sorted limit:3 %}
 		<div>
-			{{p.excerpt | markdownify }}
+			{{ p.content | strip_html | truncatewords:75 }}
 		</div>
 		<hr/>
 		      <section>
