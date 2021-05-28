@@ -26,16 +26,8 @@ collections:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-archives
+  - jekyll-category-pages
 
 keep_files: [scripting]
 
-jekyll-archives:
-  enabled: []
-  layout: archive
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+permalink: /:year/:month/:day/:title:output_ext
