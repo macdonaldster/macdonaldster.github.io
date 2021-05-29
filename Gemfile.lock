@@ -76,6 +76,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
   minima
+  jekyll-archives
 
 BUNDLED WITH
    2.2.8
