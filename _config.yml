@@ -34,7 +34,7 @@ keep_files: [scripting]
 excerpt_separator: <!--more-->
 
 jekyll-archives:
-  enabled: []
+  enabled: all
   layout: archive
   permalinks:
     year: '/:year/'
