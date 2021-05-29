@@ -66,6 +66,7 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
+    jekyll-archives (~> 2.2, >= 2.2.1)
 
 PLATFORMS
   x86_64-linux
