@@ -42,3 +42,9 @@ jekyll-archives:
     day: '/:year/:month/:day/'
     tag: '/tag/:name/'
     category: '/category/:name/'
+    layouts:
+      year: year
+      month: month
+      day: day
+      category: tag-category
+      tag: tag-category
